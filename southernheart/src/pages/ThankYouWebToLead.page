@@ -1,0 +1,9 @@
+<!--
+ * Creator: Malvin Wijaya
+ * Made: 12/21/2018
+ * Changed: 12/21/2018
+ * Page dedicated for the Clients to see after they submit the web-to-lead form
+-->
+<apex:page >
+    THANK YOU FAM. WE WILL CONTACT YOU ASAP.
+</apex:page>
